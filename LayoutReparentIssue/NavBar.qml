@@ -148,15 +148,4 @@ Rectangle {
         onClosed: {}
 
     }
-
-    Component.onCompleted: {
-//        if (root.children.length <= 4) {
-//            return
-//        }
-
-//        while (root.children.length > 4) {
-//            root.children[4].parent = navItemContainer
-//        }
-//        numberOfChieldEelements = navItemContainer.children.length
-    }
 }
